@@ -115,6 +115,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glasses_Simple
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e87105ef60df6aa4787f315cfef25f9a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e87105ef60df6aa4787f315cfef25f9a,
+        type: 3}
+      propertyPath: m_TagString
+      value: simple
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e87105ef60df6aa4787f315cfef25f9a, type: 3}
 --- !u!4 &305743117723248110 stripped
@@ -190,6 +200,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glasses_Mask
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6b3199884720a1f429171a2626184a1e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6b3199884720a1f429171a2626184a1e,
+        type: 3}
+      propertyPath: m_TagString
+      value: mask
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b3199884720a1f429171a2626184a1e, type: 3}
 --- !u!4 &1323133836757083329 stripped
@@ -264,6 +284,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Glasses_Monocle
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_TagString
+      value: monocle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4319d6c4e2307d9419676adbd0273a88, type: 3}
